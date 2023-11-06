@@ -1,10 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm AmirHossein</h1>
+<h3 align="center">Data Analyst | Data Science Enthusiast</h3>
 
-<!--
-**amirtk09/amirtk09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **developing my personal skills**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on developing my personal skills
-- 🌱 I’m currently learning Data Science
--->
+- 🌱 I’m currently learning **Data Science**
